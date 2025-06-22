@@ -24,7 +24,7 @@ The objective of this work is to:
 - **Features:** Technical indicators (MACD, RSI, Bollinger Bands, etc.), calendar covariates (weekday, month, holidays), and component weights. All this for IBEX 35 stocks as well as other exogenous variables such as the S&P 500 index.
 
 
-## Main Technologies Used
+## Main Technologies
 
 - Python 3.10+ (+ Numpy, Pandas, Matplotlib, Seaborn, etc.)
 - Jupyter Notebooks (via Google Colab)
@@ -35,6 +35,6 @@ The objective of this work is to:
 - Optuna
 
 ## Author
-TFM - UAX Master in Artificial Intelligence \
-Enrique Caballero Muñoz
+Enrique Caballero Muñoz \
+UAX Master in Artificial Intelligence \
 Consult paper on [LinkedIn](https://www.linkedin.com/in/enrique-caballero-muñoz-6297a8281/)
